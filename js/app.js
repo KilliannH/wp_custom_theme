@@ -1,0 +1,1 @@
+console.log('wp_custom_theme');
