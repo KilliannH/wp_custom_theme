@@ -6,6 +6,10 @@ Version: 0.0.1
 add a screenshot.png img file for the image of the theme
 */
 
-body {
-    font-family: "Arial Hebrew", Arial, sans-serif;
+.under-the-wp-nav {
+    margin-top: 32px;
+}
+
+.under-the-nav {
+    margin-top: 56px;
 }
